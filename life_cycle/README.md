@@ -1,11 +1,6 @@
 # Software Development Life Cycle
-#### Level one 
-Requirement Analysis
-#### Second level 
-Design
-#### The Third level
-Implementation
-#### Fourth level 
-Testing
-#### Level Five 
-Maintenance
+#### 1 - Requirement Analysis
+#### 2 - Design
+#### 3 - Implementation
+#### 4 - Testing
+#### 5 - Maintenance
