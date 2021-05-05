@@ -1,4 +1,4 @@
-# What is Software engineering
+# What is Software Engineering
 Software engineering means building a new product or systems or modifying and developing old system and improving their mistakes,
 as well as finding problems that already exist. 
 
@@ -17,3 +17,7 @@ Examples: – PC software such as graphics programs, project management tools; C
  Software that is commissioned by a specific customer to meet their own needs.
 
 Examples: – embedded control systems, air traffic control software, traffic monitoring systems.
+
+
+### The good software:
+Good software should deliver the required functionality and performance to the user and should be maintainable, dependable and usable.
