@@ -1,5 +1,5 @@
 # Software Development Life Cycle
-### * Requirement Analysis
+### A) Requirement Analysis
 ###  Design
 ###  Implementation
 ###  Testing
