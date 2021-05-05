@@ -66,3 +66,24 @@ It is the only solution if it is: A completely new system - a customer is unable
 
 #### Bad:
 Time-consuming in the requirement gathering process - effort-consuming - not guaranteed.
+
+
+### 5- Spiral model 
+![](sprile.png)
+
+This model consists of four main sectors, namely:
+1- Planning
+
+2- Study of Risks 
+
+3- Development
+
+4- Evaluation
+
+#### Good:
+It takes into account the changes and studies the risks and is of high quality due to the number of iterations that are implemented to obtain this system and it is maintainable.
+#### Bad:
+Extremely difficult to implement - it needs a team with experience and high qualifications, and it is applied in large projects such as (the aircraft control system is a very large system and contains a lot of risks).
+
+
+
