@@ -41,10 +41,10 @@ Good software should deliver the required functionality and performance to the u
 
 
 ### The Fundamental Software Engineering Activities
-1 – Analysis
+###### 1– Analysis
 
-2 – Design
+###### 2– Design
 
-3 – Implementation
+###### 3– Implementation
 
-4 – Testing
+###### 4– Testing
