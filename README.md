@@ -19,5 +19,12 @@ Examples: – PC software such as graphics programs, project management tools; C
 Examples: – embedded control systems, air traffic control software, traffic monitoring systems.
 
 
-### The good software:
+### The Good Software:
 Good software should deliver the required functionality and performance to the user and should be maintainable, dependable and usable.
+
+#### Dependency: 
+1-	Security
+2-	Availability
+3-	Reliability
+4-	Safety
+
