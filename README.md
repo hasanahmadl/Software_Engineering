@@ -24,7 +24,10 @@ Good software should deliver the required functionality and performance to the u
 
 #### Dependency: 
 1-	Security
+
 2-	Availability
+
 3-	Reliability
+
 4-	Safety
 
