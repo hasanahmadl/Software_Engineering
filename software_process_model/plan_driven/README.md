@@ -5,3 +5,12 @@
 
 ### 1- The waterfall model 
 ![](waterfall.jpg)
+
+#### Bad: 
+Too time consuming - does not accept any change in requirements.
+
+#### Good:
+Easy - no team expertise required
+
+
+### 2- Incremental process model 
