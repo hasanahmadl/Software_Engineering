@@ -23,11 +23,11 @@ Examples: – embedded control systems, air traffic control software, traffic mo
 Good software should deliver the required functionality and performance to the user and should be maintainable, dependable and usable.
 
 #### Dependency: 
-1-	Security
+##### 1-	Security
 
-2-	Availability
+##### 2-	Availability
 
-3-	Reliability
+##### 3-	Reliability
 
-4-	Safety
+##### 4-	Safety
 
