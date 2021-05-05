@@ -20,7 +20,6 @@ Examples: – embedded control systems, air traffic control software, traffic mo
 
 
 ### The Good Software:
-<hr>
 Good software should deliver the required functionality and performance to the user and should be maintainable, dependable and usable.
 
 #### Dependency: 
