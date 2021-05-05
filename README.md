@@ -48,3 +48,13 @@ Good software should deliver the required functionality and performance to the u
 ###### 3– Implementation
 
 ###### 4– Testing
+
+
+### The Difference Between Software and Hardware
+
+| Software | Hardware |
+| --- | --- |
+| logical system element | physical system element |
+| developed/engineered | manufactured |
+| Usually custom-built | assembled from existing component|
+| no spare parts |spare parts|
