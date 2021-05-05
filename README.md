@@ -40,3 +40,11 @@ Good software should deliver the required functionality and performance to the u
         Protection must be available in some systems such as aviation systems.
 
 
+### The Fundamental Software Engineering Activities
+1 – Analysis
+
+2 – Design
+
+3 – Implementation
+
+4 – Testing
