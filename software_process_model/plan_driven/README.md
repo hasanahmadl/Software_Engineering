@@ -4,4 +4,4 @@
 ## Plan driven process
 
 ### 1- The waterfall model 
-![alt text](http://url/to/img.png)
+![](waterfall.jpg)
