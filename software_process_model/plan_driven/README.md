@@ -43,3 +43,26 @@ Sometimes the right ingredients are not available - connecting ingredients toget
 Example: In web applications we may use ready-made templates for designing interfaces, and therefore web applications develop using this model or incremental model.
 #### --- Reuse using knowledge:
 That is, the reuse of the idea, not the code.
+
+<hr>
+
+### 4- Proto-type model
+![](protoType.png)
+
+##### This form is used in two situations:
+1- Development of a new system with a new idea that has not been implemented before (ambiguous).
+
+2- When the customer is unable to express his requirements.
+
+We design graphics or interfaces for display and output, but these interfaces are ineffective, this leads to motivating the customer to collect requirements from him, because seeing tangible things differs from talking about them anonymously.
+
+##### There are two types of this model:
+1- Neglected: it only aims to collect the requirements from the customer, then throw the interfaces and drawings that we have designed and follow up the activities of analysis, design, implementation and testing.
+
+2- Development: the aim is to develop the interfaces that we designed and use in the system that we develop.
+
+#### Good: 
+It is the only solution if it is: A completely new system - a customer is unable to express his requirements.
+
+#### Bad:
+Time-consuming in the requirement gathering process - effort-consuming - not guaranteed.
