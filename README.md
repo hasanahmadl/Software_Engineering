@@ -25,9 +25,18 @@ Good software should deliver the required functionality and performance to the u
 #### Dependency: 
 ###### 1-	Security
 
+         The user or anyone should not have access to information within the system that he does not have to access.
+
 ###### 2-	Availability
+
+        The system should always be available.
 
 ###### 3-	Reliability
 
+        The system must be reliable (such as a money transfer system between two accounts).
+
 ###### 4-	Safety
+
+        Protection must be available in some systems such as aviation systems.
+
 
