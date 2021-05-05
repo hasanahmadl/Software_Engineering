@@ -29,3 +29,11 @@ What is required of the system or what the system provides in terms of services 
 
 After the problem identification process, we identify the stakeholders and then carry out the requirements gathering process.
 After the requirements gathering process, we analyze and classify the requirements in agreement with the stakeholders and this is what we call the description.
+
+### 2- Design: 
+This stage we move from the stage of what is required of the system to the stage of achieving what is required of this system
+
+- Develop the system architecture.
+- Developing the necessary algorithms for each of the parts as it depends on the work of the analyst and distributes the services provided by the analyst to those integrated parts that make up the system.
+- Designing the database and plans needed for the system.
+- Designing the interfaces for the software system.
