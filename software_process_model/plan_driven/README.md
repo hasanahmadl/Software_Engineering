@@ -86,4 +86,17 @@ It takes into account the changes and studies the risks and is of high quality d
 Extremely difficult to implement - it needs a team with experience and high qualifications, and it is applied in large projects such as (the aircraft control system is a very large system and contains a lot of risks).
 
 
+### The Unified process (RUP)
+
+This procedure performs purpose-oriented analysis and design processes with the help of UML
+Unified model language (UML).
+The goal of the modeling process:
+1- Documentation.
+
+2- Dealing with diagrams is easier than writing.
+
+3- Description: We describe the system in the form of charts, and the plans are drawn up with the requirements document.
+
+4- Understanding the system.
+
 
