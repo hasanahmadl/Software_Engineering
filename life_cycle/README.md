@@ -26,3 +26,6 @@ These activities are divided into four general sections:
 ### 1- Analysis:
 What is required of the system or what the system provides in terms of services and this is what we know from stake holders.
 ##### Stake holders: They are persons or institutions represented by people who directly or indirectly influence or are affected by the system.
+
+After the problem identification process, we identify the stakeholders and then carry out the requirements gathering process.
+After the requirements gathering process, we analyze and classify the requirements in agreement with the stakeholders and this is what we call the description.
