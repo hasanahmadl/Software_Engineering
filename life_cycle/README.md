@@ -21,3 +21,8 @@ These activities are divided into four general sections:
 4- Maintenance
 
 ##### The procedural model is the way in which those previous activities are reported according to a specific procedure or method.
+<hr>
+
+### 1- Analysis:
+What is required of the system or what the system provides in terms of services and this is what we know from stake holders.
+##### Stake holders: They are persons or institutions represented by people who directly or indirectly influence or are affected by the system.
