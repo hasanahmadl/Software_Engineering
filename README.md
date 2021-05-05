@@ -25,7 +25,8 @@ Good software should deliver the required functionality and performance to the u
 #### Dependency: 
 ###### 1-	Security
 
-         The user or anyone should not have access to information within the system that he does not have to access.
+         The user or anyone should not have access to information within the system that
+         he does not have to access.
 
 ###### 2-	Availability
 
